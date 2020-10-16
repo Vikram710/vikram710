@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**Vikram710/vikram710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nsi319/nsi319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi, I'm Vikram!
+
+I am a Full Stack Developer at Delta NIT Trichy.
+
+![Vikram's github stats](https://github-readme-stats.vercel.app/api?username=vikram710&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&hide=issues)
+
+Check out my repositories to see my latest work!
